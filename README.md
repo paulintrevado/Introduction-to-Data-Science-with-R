@@ -1,2 +1,2 @@
-# Introduction-to-Data-Science-with-R
+# Introduction to Data Science with R
 BSDS 100
